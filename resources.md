@@ -11,6 +11,8 @@
 * [Introduction to Probability](http://www.stat.berkeley.edu/~aldous/134/grinstead.pdf)
 * [Statistics 110: Probability](http://projects.iq.harvard.edu/stat110/youtube)
 * [Introduction to Bayesian Statistics](https://www.youtube.com/watch?v=m_XdFYOZ6K4&list=PLUAHeOPjkJscoDA4FZXN_h6Vj_1V5AdUi)
+* [Integer Series](https://oeis.org/wiki/Welcome)
+* James/Tibshirani et al Introduction to Statistical Learning (http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
 
 
 ## Machine Learning
@@ -19,12 +21,22 @@
 * [Andrew Ng's Coursera Class](https://www.coursera.org/learn/machine-learning)
 * [Learning from Data](https://work.caltech.edu/telecourse.html)
 * [Pattern Recognition and Machine Learning](http://www.rmki.kfki.hu/~banmi/elte/Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf)
+* [Pedro Domingos Machine Learning Lectures (Coursera)](https://class.coursera.org/machlearning-001/lecture)
+* [Bishop - Intro paper on Model Based Machine Learning] (http://research.microsoft.com/en-us/um/people/cmbishop/downloads/Bishop-MBML-2012.pdf)
+* [Harvard course on ML w lots of links] (http://isites.harvard.edu/icb/icb.do?keyword=k100309)
+
+
+## Probabalistic Graphical Models
+
+* [Daphne Koller Coursera Lectures](https://class.coursera.org/pgm-003/lecture)
+* [Koller/Friedman text on PGM](https://vk.com/doc168073_304660839?hash=39a33dd8aa6b141d8a&dl=b667454bc650f66cc0)
 
 ##Neural Networks
 
 * [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 * [Neural Networks Class](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
 * [Deep Learning Glossary](http://www.wildml.com/deep-learning-glossary/)
+* [Stanford Course w Richard Socher](http://cs224d.stanford.edu/syllabus.html)
 
 ## Viz
 
@@ -50,3 +62,13 @@
 * [Data Skeptic Podcast](http://dataskeptic.com/)
 * [Talking Machines Podcast](http://www.thetalkingmachines.com/)
 * [Data Science Weekly Newsletter](http://www.datascienceweekly.org/)
+
+
+## Blogs
+
+*[AI Blog](http://artent.net/most-popular-posts/)
+
+
+## Other Courses
+
+*[Chris Wiggins and Jake Hoffman](http://modelingsocialdata.org/posts/)
